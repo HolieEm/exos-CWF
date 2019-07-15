@@ -7,7 +7,7 @@ Avec la fonction echo, afficher la phrase suivante en utilisant des guillemets d
 (Ajouter un passage à la ligne à la fin de la phrase)
 --------------------[ 1b ]--------------------
 Idem [1] mais avec des guillemets simples
-
+bablabla
 
 
 --------------------[ 2 ]--------------------
